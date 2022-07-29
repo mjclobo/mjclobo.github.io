@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-29T16:46:01-04:00</updated><id>/feed.xml</id><title type="html">Welcome to Matt Lobo’s webpage</title><subtitle>AOS student</subtitle><author><name>Matt Lobo</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-29T16:51:00-04:00</updated><id>/feed.xml</id><title type="html">Welcome to Matt Lobo’s webpage</title><subtitle>AOS student</subtitle><author><name>Matt Lobo</name></author><entry><title type="html">Introduction</title><link href="/intro/profile-overview/" rel="alternate" type="text/html" title="Introduction" /><published>2022-07-28T00:00:00-04:00</published><updated>2022-07-28T00:00:00-04:00</updated><id>/intro/profile-overview</id><content type="html" xml:base="/intro/profile-overview/"><![CDATA[<p>Hello! I’m a PhD student with a strong interest in
+studying how to better describe and model the earth system.
+My focus is on ocean physics and ocean/climate modeling, though
+I have a strong drive to develop and expand my knowledge in all adjacent
+subjects such as atmospheric physics, air-sea interactions, general applied
+mathematics, and much more.</p>
+
+<p>In my free time I enjoy reading literature, admiring and exploring our
+beautiful natural world, and spending with my dog, Cauchy, and cat, Ashley.</p>
+
+<p>Thanks for visiting my page!</p>]]></content><author><name>Matt Lobo</name></author><category term="Intro" /><category term="hello" /><category term="oceanography" /><category term="physics" /><category term="fourth" /><summary type="html"><![CDATA[Hello! I’m a PhD student with a strong interest in studying how to better describe and model the earth system. My focus is on ocean physics and ocean/climate modeling, though I have a strong drive to develop and expand my knowledge in all adjacent subjects such as atmospheric physics, air-sea interactions, general applied mathematics, and much more.]]></summary></entry></feed>
