@@ -120,7 +120,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://mjclobo.github.io"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/matthew-lobo-895017189/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
