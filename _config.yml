@@ -110,10 +110,10 @@ author:
   location         : "Princeton, NJ"
   email            : # "mattlobo@princeton.edu, matt.lobo@noaa.gov"
   links:
-    - label: "Princeton email"
+    - label: "mattlobo@princeton.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mattlobo@princeton.edu"
-    - label: "NOAA email"
+    - label: "matt.lobo@noaa.gov"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:matt.lobo@noaa.gov"
     - label: "Website"
