@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/intro/profile-overview/</loc>
+<loc>http://localhost:4000/intro/profile-overview/</loc>
 <lastmod>2022-07-28T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>/projects/</loc>
+<loc>http://localhost:4000/projects/</loc>
 </url>
 <url>
-<loc>/images/AGU_ke.pdf</loc>
+<loc>http://localhost:4000/images/AGU_ke.pdf</loc>
 <lastmod>2022-07-29T17:25:08-04:00</lastmod>
 </url>
 </urlset>

@@ -18,7 +18,7 @@ I also (will) have various [projects](https://mjclobo.github.io/projects/) which
 
 ## Outreach
 
-I am always interested in helping others make their way into the field of ocean sciences, and STEM more generally.
+I'm always interested in helping others make their way into the field of ocean sciences, and STEM more generally.
 If you are looking for any advice for gaining research experience, applying to graduate school, or just want general
 information, feel free to contact me.
 
