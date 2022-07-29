@@ -1,1 +1,1 @@
-Sitemap: /mjclobo.github.io/sitemap.xml
+Sitemap: /sitemap.xml
