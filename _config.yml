@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Matt Lobo's webpage"
+title                    : "Welcome to my webpage (currently being built)!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Matt Lobo"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Matt Lobo"
-  avatar           : "https://github.com/mjclobo/mjclobo.github.io/tree/master/docs/assets/images/LoboProfile.png"
-  bio              : "I'm a PhD student in Princeton University's Atmospheric and Oceanic Sciences (AOS) Program, where my studies focus on ocean physics and ocean/climate modeling."
+  avatar           : "/images/LoboProfile.png"
+  bio              : #"I'm a PhD student in Princeton University's Atmospheric and Oceanic Sciences (AOS) Program, where my studies focus on ocean physics and ocean/climate modeling."
   location         : "Princeton, NJ"
   email            : # "mattlobo@princeton.edu, matt.lobo@noaa.gov"
   links:
