@@ -3,7 +3,7 @@ title: 'Nature Journal'
 layout: single
 permalink: /naturejournal/
 author_profile: true
-excerpt: 'Appreciating nature is one of my few passions'
+excerpt: 'Appreciating nature is one of my greatest passions'
 header:
   overlay_image: /images/waxwingsCropped.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
