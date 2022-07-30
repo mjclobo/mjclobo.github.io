@@ -2,8 +2,8 @@
 main:
   - title: "Projects"
     url: /projects/ 
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Nature Journal"
+    url: /naturejournal/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

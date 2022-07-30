@@ -2,7 +2,7 @@
 title: 'Matt Lobo'
 layout: single
 author_profile: true
-excerpt: 'Princeton PhD student and physical oceanographer.'
+excerpt: 'Princeton PhD student and physical oceanographer'
 header:
   overlay_image: /images/AGU_ke.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -11,6 +11,8 @@ header:
 # About me
 
 I'm currently a PhD student in Princeton University's [Atmospheric and Oceanic Sciences (AOS) Program](https://aos.princeton.edu/) where I study and perform research in the realm of geophysical fluid dynamics.
+My research focuses on ocean physics and ocean/climate modeling where I uses a vast skillset spanning the subjects of vector calculus, signal processing,
+fluid dynamics, thermodynamics, computer programming, and general applied and computational mathematics.
 
 ---
 
