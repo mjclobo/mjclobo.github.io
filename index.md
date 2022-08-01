@@ -10,9 +10,13 @@ header:
 
 # About me
 
-I'm currently a PhD student in Princeton University's [Atmospheric and Oceanic Sciences (AOS) Program](https://aos.princeton.edu/) where I study and perform research in the realm of geophysical fluid dynamics.
-My research focuses on ocean physics and ocean/climate modeling where I uses a vast skillset spanning the subjects of vector calculus, signal processing,
-fluid dynamics, thermodynamics, computer programming, and general applied and computational mathematics.
+I'm a PhD student in Princeton University's
+[Atmospheric and Oceanic Sciences (AOS) Program](https://aos.princeton.edu/),
+in which I study and perform research in the realm of geophysical fluid dynamics.
+My research focuses on ocean physics and ocean/climate modeling, where I use
+a skillset spanning the subjects of vector calculus, signal processing,
+fluid dynamics, thermodynamics, computer programming, and general applied
+and computational mathematics.
 
 ---
 
