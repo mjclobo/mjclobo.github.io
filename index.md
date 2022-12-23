@@ -12,11 +12,11 @@ header:
 
 I'm a PhD student in Princeton University's
 [Atmospheric and Oceanic Sciences (AOS) Program](https://aos.princeton.edu/),
-in which I study and perform research in the realm of geophysical fluid dynamics.
-My research focuses on ocean physics and ocean/climate modeling, where I use
-a skillset spanning the subjects of vector calculus, signal processing,
-fluid dynamics, thermodynamics, computer programming, and general applied
-and computational mathematics.
+where I study and perform research in the realm of geophysical fluid dynamics
+under the guidance of [Dr. Stephen Griffies](https://stephengriffies.github.io/).
+My research focuses on ocean physics and ocean/climate modeling, with the overarching goal
+of better physically understanding the oceans and being able to represent them
+in numerical models of varying complexity.
 
 ---
 
@@ -24,7 +24,7 @@ I also (will) have various [projects](https://mjclobo.github.io/projects/) which
 
 ## Outreach
 
-I'm always open to outreach opportunities, especially those that
+I'm always looking for outreach opportunities, especially those that
 are geared towards making STEM more accessible to people from underrepresented backgrounds.
 
 I'm also interested in helping others make their way into the field of ocean sciences and STEM, more generally.
