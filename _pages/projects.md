@@ -13,6 +13,7 @@ header:
 
 - [**Link to future projects**](https://google.com): No current projects are available.
 
-<img src="/images/SW_tide_wind.mp4" alt="zigzag" />
-
+<div class="nav3" style="height:705px;">
+    <img src="/images/SW_tide_wind.mp4" alt="SW animation" width="47%"></a>
+</div>
 
