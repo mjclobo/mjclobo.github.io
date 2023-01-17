@@ -13,6 +13,6 @@ header:
 
 - [**Link to future projects**](https://google.com): No current projects are available.
 
-<video autoplay="autoplay" loop="loop"a width="768" height="512">
+<video autoplay="autoplay" loop="loop" width="768" height="512">
   <source src="/images/SW_tide_wind.mp4" type="video/mp4">
 </video>
