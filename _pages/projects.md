@@ -13,7 +13,6 @@ header:
 
 - [**Link to future projects**](https://google.com): No current projects are available.
 
-<div class="nav3" style="height:705px;">
-    <img src="/images/SW_tide_wind.mp4" alt="SW animation" width="47%"></a>
-</div>
-
+<video autoplay="autoplay" loop="loop"a width="768" height="512">
+  <source src="/images/SW_tide_wind.mp4" type="video/mp4">
+</video>
