@@ -9,9 +9,9 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-## Overview
+## Shallow water tide model with self-attraction and loading
 
-- I made a linear, single-layer, viscous, non-rotating
+I made a linear, single-layer, viscous, non-rotating
 shallow water model with tidal and wind forcing to explore
 using different predictor and predictor-corrector schemes
 when applying self-attraction and loading (SAL) forcing
