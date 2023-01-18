@@ -22,7 +22,7 @@ The code for the model can be found in a Github repository
 Note that there is an animation below which currently doesn't
 appear in Firefox browsers.
 
-<video autoplay="autoplay" loop="loop" width="1280" height="720">
+<video autoplay="autoplay" loop="loop" width="1120" height="630">
   <source src="/images/SW_tide_wind.mp4" type="video/mp4">
 </video>
 
