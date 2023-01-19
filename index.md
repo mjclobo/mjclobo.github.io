@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 excerpt: 'Princeton PhD student and physical oceanographer'
 header:
-  overlay_image: /images/AGU_ke.png
+  overlay_image: /images/gulls.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
