@@ -20,7 +20,7 @@ in numerical models of varying complexity.
 
 ---
 
-I also (will) have various [projects](https://mjclobo.github.io/projects/) which highlight my personal and professional interests.
+I also have various [projects](https://mjclobo.github.io/projects/) which highlight my personal and professional interests.
 
 ## Outreach
 
