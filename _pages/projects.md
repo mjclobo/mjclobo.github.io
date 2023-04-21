@@ -21,8 +21,19 @@ with no background flow or planetary vorticity gradient.
 </video>
 
 
-## Shallow water tide model with self-attraction and loading
+## DIY rotating tank 
+I recently scrapped together a rotating tank setup from an old
+record player and some nuts and bolts.
+The video below shows some eddies forming in the tank
+that I was able to capture using a DIY phone mount (see photo below).
+In the future I plan on using the tank to exhibit topographic Rossby
+waves and baroclinic instability.
 
+{% include video id="raEENcJgxic" provider="youtube" %}
+
+![rotating tank](/images/rot_tank.jpg)
+
+## Shallow water tide model with self-attraction and loading
 I made a linear, single-layer, viscous, non-rotating
 shallow water model with tidal and wind forcing to explore
 using different predictor and predictor-corrector schemes
