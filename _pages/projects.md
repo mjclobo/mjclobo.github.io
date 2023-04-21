@@ -28,11 +28,9 @@ in an ocean model.
 The code for the model can be found in a Github repository
 [here](https://github.com/mjclobo/swTideModel).
 
-Note that there is an animation below which currently doesn't
-appear in Firefox browsers.
 
 <video autoplay="autoplay" loop="loop" width="1120" height="630">
-  <source src="/images/SW_tide_wind.mp4" type="video/mp4">
+  <source src="/images/sw_tide_wind_2.mp4" type="video/mp4">
 </video>
 
 
