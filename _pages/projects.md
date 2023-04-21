@@ -11,7 +11,7 @@ header:
 
 ## Quasi-geostrophy and surface quasi-geostrophy
 Animations made using [pyqg](https://github.com/pyqg/pyqg) in order to provide
-an elementary example between QG and SQG dynamics, following Held et al., 1995.
+an elementary example of the differences between QG and SQG dynamics, following Held et al., 1995.
 
 <video autoplay="autoplay" loop="loop" width="1120" height="630">
   <source src="/images/comb1.mp4" type="video/mp4">
