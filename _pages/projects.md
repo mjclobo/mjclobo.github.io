@@ -10,7 +10,8 @@ header:
 ---
 
 ## Quasi-geostrophy and surface quasi-geostrophy
-Animations of potential vorticity, made using [pyqg](https://github.com/pyqg/pyqg) in order to provide
+Here is an animation of potential vorticity evolution,
+made using [pyqg](https://github.com/pyqg/pyqg), in order to provide
 an elementary example of the differences between QG and SQG dynamics, following Held et al., 1995.
 All models are initialized with the same surface/upper layer buoyancy anomaly
 with no background flow or planetary vorticity gradient.
