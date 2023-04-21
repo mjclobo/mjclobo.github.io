@@ -9,6 +9,15 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+## Quasi-geostrophy and surface quasi-geostrophy
+Animations made using [pyqg](https://github.com/pyqg/pyqg) in order to provide
+an elementary example between QG and SQG dynamics, following Held et al., 1995.
+
+<video autoplay="autoplay" loop="loop" width="1120" height="630">
+  <source src="/images/comb1.mp4" type="video/mp4">
+</video>
+
+
 ## Shallow water tide model with self-attraction and loading
 
 I made a linear, single-layer, viscous, non-rotating
