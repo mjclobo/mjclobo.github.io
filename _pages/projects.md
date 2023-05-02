@@ -22,6 +22,18 @@ with no background flow or planetary vorticity gradient.
 </video>
 
 
+In this second animation we compare a barotropic QG model (left)
+with an SQG model (right) using an initial condition with energy at a few
+wavenumbers around 9 and random phases (similar to that of Fig. 11.8
+in Vallis, 2017).
+The barotropic animation is run 4x as fast as the SQG animation
+
+<video autoplay="autoplay" loop="loop" width="1120" height="630">
+  <source src="/images/comb_9wav.mp4" type="video/mp4">
+</video>
+
+
+
 ## DIY rotating tank 
 I recently scrapped together a rotating tank setup (with a phone mount)
 from an old
