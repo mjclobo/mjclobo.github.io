@@ -10,9 +10,12 @@ header:
 ---
 
 ## Quasi-geostrophy and surface quasi-geostrophy
-Here is an animation of potential vorticity evolution,
-made using [pyqg](https://github.com/pyqg/pyqg), in order to provide
-an elementary example of the differences between QG and SQG dynamics, following Held et al., 1995.
+Here are a couple of animations of potential vorticity evolution,
+made using [pyqg](https://github.com/pyqg/pyqg), that provide
+elementary examples of the differences between QG and SQG dynamics.
+
+
+This first animation follows a basic example from Held et al., 1995.
 All models are initialized with the same surface/upper layer buoyancy anomaly
 with no background flow or planetary vorticity gradient.
 
@@ -26,7 +29,7 @@ In this second animation we compare a barotropic QG model (left)
 with an SQG model (right) using an initial condition with energy at a few
 wavenumbers around 9 and random phases (similar to that of Fig. 11.8
 in Vallis, 2017).
-The barotropic animation is run 4x as fast as the SQG animation
+The barotropic animation is run 4x as fast as the SQG animation.
 
 <video autoplay="autoplay" loop="loop" width="1120" height="630">
   <source src="/images/comb_9wav.mp4" type="video/mp4">
