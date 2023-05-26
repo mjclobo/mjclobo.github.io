@@ -21,7 +21,7 @@ with no background flow or planetary vorticity gradient.
 
 
 <video autoplay="autoplay" loop="loop" width="1120" height="630">
-  <source src="/images/comb1.mp4" type="video/mp4">
+  <source src="/images/comb_two_panel.mp4" type="video/mp4">
 </video>
 
 
