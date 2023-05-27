@@ -30,6 +30,9 @@ with an SQG model (right) using an initial condition with energy at a few
 wavenumbers around 9 and random phases (similar to that of Fig. 11.8
 in Vallis, 2017).
 The barotropic animation is run 4x as fast as the SQG animation.
+One thing to note is the much greater stability/persistence
+of long, thin structures in the barotropic model than in the
+SQG one.
 
 <video autoplay="autoplay" loop="loop" width="1120" height="630">
   <source src="/images/comb_9wav.mp4" type="video/mp4">
