@@ -9,7 +9,7 @@ excerpt: 'Communicating science to a broad and diverse audience as well as incre
 			the preservation of beautiful places and their natural residents, such as the elk of
 			Tonquin Valley in Jasper National Park; shown here during a 2018 backpacking trip.'
 header:
-  overlay_image: /images/tonquin.jpg
+  overlay_image: /images/tonquin.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
