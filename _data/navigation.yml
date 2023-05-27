@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Outreach"
+    url: /outreach/
   - title: "Projects"
     url: /projects/ 
   - title: "Nature Journal"

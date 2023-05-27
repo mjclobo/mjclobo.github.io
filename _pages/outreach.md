@@ -1,7 +1,7 @@
 ---
 title: 'Outreach'
 layout: single
-permalink: /outeach/
+permalink: /outreach/
 author_profile: true
 excerpt: 'Communicating science to a broad and diverse audience as well as increasing upward mobility
 			for people from underrepresented backgrounds are two goals which motivate me greatly.
