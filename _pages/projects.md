@@ -60,8 +60,6 @@ shallow water model with tidal and wind forcing to explore
 using different predictor and predictor-corrector schemes
 when applying self-attraction and loading (SAL) forcing
 in an ocean model.
-The code for the model can be found in a Github repository
-[here](https://github.com/mjclobo/swTideModel).
 
 
 <video autoplay="autoplay" loop="loop" width="1120" height="630">
