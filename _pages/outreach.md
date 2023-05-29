@@ -27,7 +27,7 @@ for all.
 
 
 ## Outreach events in the past
-Myself and some other students/scientists in Princeton prioritize remaining engaged
+A group of AOS students/scientists in Princeton and I prioritize remaining engaged
 with our New Jersey community.
 Here we (myself, Gabe, and Winnie) are using the [rotating tank setup](https://mjclobo.github.io/projects/#diy-rotating-tank)
 which I built for outreach and scientific demonstration, during the Spring Into Science outreach event
