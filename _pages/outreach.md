@@ -3,8 +3,8 @@ title: 'Outreach'
 layout: single
 permalink: /outreach/
 author_profile: true
-excerpt: 'Communicating science to a broad and diverse audience as well as increasing upward mobility
-			for people from underrepresented backgrounds are two goals which motivate me greatly.
+excerpt: 'Communicating science to a broad and diverse audience, and increasing upward mobility
+			for people from underrepresented backgrounds, are two goals which motivate me greatly.
 			By increasing science literacy we can help empower people to make choices that lead to
 			the preservation of beautiful places and their natural residents, such as the elk of
 			Tonquin Valley in Jasper National Park; shown here during a 2018 backpacking trip.'
@@ -29,9 +29,9 @@ for all.
 ## Outreach events in the past
 Myself and some other students/scientists in Princeton prioritize remaining engaged
 with our New Jersey community.
-Here is myself and my peers, Gabe and Winnie, using the [rotating tank setup](https://mjclobo.github.io/projects/#diy-rotating-tank)
+Here we (myself, Gabe, and Winnie) are using the [rotating tank setup](https://mjclobo.github.io/projects/#diy-rotating-tank)
 which I built for outreach and scientific demonstration, during the Spring Into Science outreach event
-which over 300 people attended!
+which was attended by over 300 people!
 By video calling the phone that co-rotates with the tank, people are able to
 see our model ocean/atmosphere from both rotating and non-rotating points of view.
 
