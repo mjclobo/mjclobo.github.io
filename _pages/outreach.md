@@ -5,7 +5,7 @@ permalink: /outreach/
 author_profile: true
 excerpt: 'Communicating science to a broad and diverse audience, and increasing upward mobility
 			for people from underrepresented backgrounds, are two goals which motivate me greatly.
-			By increasing science literacy we can help empower people to make choices that lead to
+			By increasing science literacy we can empower people to make choices that lead to
 			the preservation of beautiful places and their natural residents, such as the elk of
 			Tonquin Valley in Jasper National Park; shown here during a 2018 backpacking trip.'
 header:
