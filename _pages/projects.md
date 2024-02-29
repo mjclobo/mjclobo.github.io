@@ -9,33 +9,39 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-## Quasi-geostrophy and surface quasi-geostrophy
+## Topographic effects on different types of baroclinic instability
 Here are a couple of animations of potential vorticity evolution,
-made using [pyqg](https://github.com/pyqg/pyqg), that provide
-elementary examples of the differences between QG and SQG dynamics.
+made using a modified version of [GeophysicalFlows.jl](https://fourierflows.github.io/GeophysicalFlowsDocumentation/stable/), that
+demonstrate the varying effects of topography on different types of instability.
+Importantly, we use a three-layer model, allowing for the representation of
+an interior potential vorticity gradient.
+The main takeaway is that studies that use two-layer models to study
+topographic effects on baroclinic instability only show part of the picture.
+Representing this modal instability with two layers will surely affect the instability since the
+instability must always exist in both layers!
 
 
-This first animation follows a basic example from Held et al., 1995.
-All models are initialized with the same surface/upper layer buoyancy anomaly
-with no background flow or planetary vorticity gradient.
+The first animation shows how a surface-intensified Charney-type instability
+is fairly apathetic of bottom topography, though there are still implications
+for how energy is transferred down and dissipated through bottom drag.
 
 
 <video autoplay="autoplay" loop="loop" width="1120" height="630">
-  <source src="/images/comb_two_panel.mp4" type="video/mp4">
+  <source src="/images/gam3_topo.mp4" type="video/mp4">
 </video>
 
 
-In this second animation we compare a barotropic QG model (left)
-with an SQG model (right) using an initial condition with energy at a few
-wavenumbers around 9 and random phases (similar to that of Fig. 11.8
-in Vallis, 2017).
-The barotropic animation is run 4x as fast as the SQG animation.
-One thing to note is the much greater stability/persistence
-of long, thin structures in the barotropic model than in the
-SQG one.
+In this second animation we look at how topography affects
+the instability of a full-column Eady-type mode.
+Positive sloping topography (middle) slows down the growth rate of the instability
+but doesn't change the unstable wavenumber, whereas negatively sloping topography (right)
+moves the instability to a higher wavenumber.
+These results more closely correspond to studies that have used a two-layer
+model to study topographic effects on baroclinic instability.
+
 
 <video autoplay="autoplay" loop="loop" width="1120" height="630">
-  <source src="/images/comb_9wav.mp4" type="video/mp4">
+  <source src="/images/gam13_topo.mp4" type="video/mp4">
 </video>
 
 
