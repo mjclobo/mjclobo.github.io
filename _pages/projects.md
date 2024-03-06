@@ -15,13 +15,19 @@ made using a modified version of [GeophysicalFlows.jl](https://fourierflows.gith
 demonstrate the varying effects of topography on different types of instability.
 Importantly, we use a three-layer model, allowing for the representation of
 an interior potential vorticity gradient.
-The main takeaway is that studies that use two-layer models to study
+We also use the power iteration method (see Paloczy and LaCasce (2022)) to
+simulate a growing mode and perform an empirical linear stability analysis, of sorts.
+Thus, the animations below are of a growing, unstable wave.
+
+The main takeaway is that studies that use two-layer models to simulate
 topographic effects on baroclinic instability only show part of the picture.
 Representing this modal instability with two layers will surely affect the instability since the
 instability must always exist in both layers!
+Allowing for a surface-intensified mode to form in the upper two layers of a three-layer
+mitigates topographic effects on the instability.
 
 
-The first animation shows how a surface-intensified Charney-type instability
+The first animation shows how a surface-intensified Charney-type unstable wave
 is fairly apathetic of bottom topography, though there are still implications
 for how energy is transferred down and dissipated through bottom drag.
 
@@ -32,7 +38,7 @@ for how energy is transferred down and dissipated through bottom drag.
 
 
 In this second animation we look at how topography affects
-the instability of a full-column Eady-type mode.
+the growing, unstable mode of a full-column Eady-type mode.
 Positive sloping topography (middle) slows down the growth rate of the instability
 but doesn't change the unstable wavenumber, whereas negatively sloping topography (right)
 moves the instability to a higher wavenumber.
