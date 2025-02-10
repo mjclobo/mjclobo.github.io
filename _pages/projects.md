@@ -57,7 +57,7 @@ model to study topographic effects on baroclinic instability.
 
 ## CWT_Multi: Wavelet analysis of nonstationary tides
 I am the lead author of a recent study where we develop a math method
-for analyszing nonstationary tidal signals that quickly evolve in time.
+for analyzing nonstationary tidal signals that quickly evolve in time.
 The [CWT_Multi code](https://github.com/mjclobo/CWT_Multi) is available on Github.
 In the [CWT_Multi documentation](https://cwt-multi.readthedocs.io/en/latest/index.html), I
 provide a comprehensive and readable [primer on the math theory of CWT_Multi](https://cwt-multi.readthedocs.io/en/latest/CWTmath.html),
@@ -65,7 +65,7 @@ as well as some [example code](https://cwt-multi.readthedocs.io/en/latest/CWTex.
 The details of the method and its application can be found in
 [Lobo et al., (2024)](https://journals.ametsoc.org/view/journals/atot/41/10/JTECH-D-23-0144.1.xml).
 
-CWT_Multi can be used to analyze how nonstationary tidal amplitudes and phases evolve
+CWT_Multi can be used to analyze the time evolution of nonstationary tidal amplitudes and phases
 in response to external factors, e.g., estuarine flooding.
 In addition, CWT_Multi reconstructs a time series from the nonstationary tidal amplitude data.
 The tide-only time series could, for example, then be subtracted from the original signal to study
