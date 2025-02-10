@@ -71,7 +71,7 @@ In addition, CWT_Multi reconstructs a time series from the nonstationary tidal a
 The tide-only time series could, for example, then be subtracted from the original signal to study
 phenomena unrelated to tides, e.g., storm surge due to rainfall.
 
-![The M2 complex wavelet filter](./pictures/M2_wavelet.png)
+![The M2 complex wavelet filter](/images/M2_wavelet.png)
 
 
 
