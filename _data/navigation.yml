@@ -3,7 +3,9 @@ main:
   - title: "Outreach"
     url: /outreach/
   - title: "Projects"
-    url: /projects/ 
+    url: /projects/
+  - title: "Publications"
+    url: /pubs/ 
   - title: "Nature Journal"
     url: /naturejournal/
   # - title: "Sample Posts"
