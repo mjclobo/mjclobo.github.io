@@ -11,7 +11,7 @@ header:
 ---
 
 ## Submitted or in revisions
-[Two-layer quasi-geostrophic waves and turbulence over a meridionally sloping bottom with linear bottom drag](https://essopenarchive.org/users/806869/articles/1332296-two-layer-quasi-geostrophic-waves-and-turbulence-over-a-meridionally-sloping-bottom-with-linear-bottom-drag) 
+[Two-layer quasi-geostrophic waves and turbulence over a meridionally sloping bottom with linear bottom drag](https://essopenarchive.org/users/806869/articles/1332296-two-layer-quasi-geostrophic-waves-and-turbulence-over-a-meridionally-sloping-bottom-with-linear-bottom-drag) <br> 
 **M. Lobo**, S.M. Griffies,
 Submitted to *Journal of Physical Oceanography (2025)*
 
@@ -23,19 +23,19 @@ In revisions at *Journal of Fluid Mechanics (2025)*
 
 
 ## Peer reviewed
-[The GFDL-CM4X climate model hierarchy, Part I: model description and thermal properties](https://essopenarchive.org/doi/full/10.22541/essoar.173282145.53065190)
+[The GFDL-CM4X climate model hierarchy, Part I: model description and thermal properties](https://essopenarchive.org/doi/full/10.22541/essoar.173282145.53065190) <br>
 Griffies, S. M., Adcroft, A., Beadling, R. L., Bushuk, M., Chang, C. Y., Drake, H. F., ..., **Lobo, M.**, ... ,
 *Journal of Advances in Modeling Earth Systems (2025)*
 
-[The GFDL-CM4X climate model hierarchy, Part II: case studies](https://essopenarchive.org/doi/full/10.22541/essoar.173282138.89550323)
+[The GFDL-CM4X climate model hierarchy, Part II: case studies](https://essopenarchive.org/doi/full/10.22541/essoar.173282138.89550323) <br>
 Griffies, S. M., Adcroft, A., Beadling, R. L., Bushuk, M., Chang, C. Y., Drake, H. F., ..., **Lobo, M.**, ... ,
 *Journal of Advances in Modeling Earth Systems (2025)*
 
-[Vertical structure of baroclinic instability in a three-layer quasi-geostrophic model over a sloping bottom](https://journals.ametsoc.org/view/journals/phoc/55/4/JPO-D-24-0130.1.xml) 
+[Vertical structure of baroclinic instability in a three-layer quasi-geostrophic model over a sloping bottom](https://journals.ametsoc.org/view/journals/phoc/55/4/JPO-D-24-0130.1.xml) <br>
 **M. Lobo**, S.M. Griffies, and W. Zhang,
 *Journal of Physical Oceanography (2025)*
 
-[Implementing Superresolution of Nonstationary Tides with Wavelets: An Introduction to CWT\_Multi](https://journals.ametsoc.org/view/journals/atot/41/10/JTECH-D-23-0144.1.xml) 
+[Implementing Superresolution of Nonstationary Tides with Wavelets: An Introduction to CWT\_Multi](https://journals.ametsoc.org/view/journals/atot/41/10/JTECH-D-23-0144.1.xml) <br>
 **M. Lobo**, D. A. Jay, S. Innocenti, S. A. Talke, S. L. Dykstra, and P. Matte,
 *Journal of Atmospheric and Oceanic Technology (2024)*
 
