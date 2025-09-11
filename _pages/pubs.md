@@ -15,7 +15,7 @@ header:
 **M. Lobo**, S.M. Griffies,
 Submitted to *Journal of Physical Oceanography (2025)*
 
-[Baroclinic energy cycles in two-layer quasi-geostrophic turbulence](https://essopenarchive.org/users/806869/articles/1332304-baroclinic-energy-cycles-in-two-layer-quasi-geostrophic-turbulence)\ 
+[Baroclinic energy cycles in two-layer quasi-geostrophic turbulence](https://essopenarchive.org/users/806869/articles/1332304-baroclinic-energy-cycles-in-two-layer-quasi-geostrophic-turbulence) <br>
 **M. Lobo**,
 In revisions at *Journal of Fluid Mechanics (2025)*
 
