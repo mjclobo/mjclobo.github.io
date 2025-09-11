@@ -122,6 +122,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mjclobo"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=xLTijp0AAAAJ&hl=en"
 
 # Site Footer
 footer:
