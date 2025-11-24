@@ -15,14 +15,13 @@ header:
 **M. Lobo**, S.M. Griffies,
 Submitted to *Journal of Physical Oceanography (2025)*
 
-[Baroclinic energy cycles in two-layer quasi-geostrophic turbulence](https://essopenarchive.org/users/806869/articles/1332304-baroclinic-energy-cycles-in-two-layer-quasi-geostrophic-turbulence) <br>
-**M. Lobo**,
-In revisions at *Journal of Fluid Mechanics (2025)*
-
-
-
 
 ## Peer reviewed
+[Baroclinic energy cycles in two-layer quasi-geostrophic turbulence](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/baroclinic-energy-cycles-in-twolayer-quasigeostrophic-turbulence/676A8104D6C6D8A836AAED6B8DB2C7F2) <br>
+**M. Lobo**,
+*Journal of Fluid Mechanics (2025)*
+
+
 [The GFDL-CM4X climate model hierarchy, Part I: model description and thermal properties](https://essopenarchive.org/doi/full/10.22541/essoar.173282145.53065190) <br>
 Griffies, S. M., Adcroft, A., Beadling, R. L., Bushuk, M., Chang, C. Y., Drake, H. F., ..., **Lobo, M.**, ... ,
 *Journal of Advances in Modeling Earth Systems (2025)*
